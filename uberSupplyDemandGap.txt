@@ -1,0 +1,6 @@
+Welcome to "Uber Supply Demand Gap" 
+There is a gap between Demand and supply of cabs , we need to find the reason for this gap.
+Driver cancellation and non-availability of cars leading to loss of potential revenue to Uber.
+
+There are six attributes associated with each request made by a customer:
+Request id,Time of request,Drop-off time,Pick-up point,Driver id,Status of the request
